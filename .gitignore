@@ -1,0 +1,20 @@
+# Bỏ qua file credentials
+serviceAccountKey.json
+.env
+
+# Bỏ qua cache và build
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.so
+*.egg-info/
+build/
+dist/
+
+# Bỏ qua logs
+*.log
+
+# Bỏ qua config IDE
+.vscode/
+.idea/

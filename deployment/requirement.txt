@@ -1,0 +1,7 @@
+numpy
+opencv-python
+pillow
+flask
+requests
+paho-mqtt
+tflite-runtime
